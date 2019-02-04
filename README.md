@@ -5,3 +5,5 @@ The user will click on two card. If they match, they will turn green and the car
 If they don't match, they flip over back side up. 
 
 There is a timer and a move counter. You can also restart the game with the arrow. 
+
+You can play the game at xshirl.github.io/matchingGame
